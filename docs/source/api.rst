@@ -2,9 +2,7 @@ Python API
 ==========
 
 This document presents the *public* API, meaning, the set of functions and
-classes that matter the most. If you are interested in all the nitty-gritty
-details, here's a link to the epydoc documentation for the entire source
-code: `restblog source code <../../api/index.html>`_
+classes that matter the most.
 
 restblog.server
 ---------------

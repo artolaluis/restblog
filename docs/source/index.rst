@@ -31,6 +31,14 @@ General Documentation
    directives.rst
    examples.rst
 
+Developer Documentation
+---------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   api.rst
+
 Indices and tables
 ------------------
 
