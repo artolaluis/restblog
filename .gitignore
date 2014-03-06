@@ -1,0 +1,14 @@
+dist/
+.*swp
+*.diff
+*.db
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*/static/
+log/
+*.pid
+*.sock
+**/dump.rdb
