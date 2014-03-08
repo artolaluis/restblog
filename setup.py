@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Copyright 2013. Milestones Software, LLC. All rights reserved.
+# Copyright 2013. Luis Artola. All rights reserved.
 
 import os
 
